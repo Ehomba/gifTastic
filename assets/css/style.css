@@ -1,0 +1,13 @@
+#form{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+body{
+    background-image: url("../images/background.jpg");
+    background-position: right;
+}
+
+#display-buttons{
+    margin-top: 10px;
+}
